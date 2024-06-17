@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#imagem {
+    width: 100vw;
+    height: 710px;
+    background-image: url('img/errou.jpg');
+    background-size: contain;
+}
+p {
+    background-color: black;
+    font-size: 2em;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+    height: 100px;
+    width: 100%;
+}
+a{  
+    margin-top: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    border: 5px solid black;
+    font-size: 2em;
+    width: 50%;
+    text-align: center;
+}
