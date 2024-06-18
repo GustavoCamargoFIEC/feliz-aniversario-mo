@@ -7,15 +7,16 @@ body {
 }
 #imagem {
     width: 100vw;
-    height: 710px;
+    height: 520px;
     background-image: url('img/errou.jpg');
     background-size: contain;
+    background-repeat: no-repeat;
 }
 p {
     background-color: black;
     font-size: 2em;
     color: white;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
     margin: 0;
     height: 100px;
